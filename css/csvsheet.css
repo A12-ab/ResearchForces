@@ -1,0 +1,14 @@
+body {
+    background-image: url('img/25552.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: #ffffff ;
+}
+
+.container {
+    background: #ffffff ;
+    width: 200px ;
+}
